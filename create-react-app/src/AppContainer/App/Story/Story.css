@@ -1,0 +1,24 @@
+.story {
+    margin: 10px;
+    font-size: 14px;
+}
+
+.story-link {
+    text-decoration: none;
+    color: black;
+}
+
+.story-domain {
+    color: darkgray;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.story-domain:hover {
+    text-decoration: underline;
+}
+
+.story-meta {
+    color: darkgray;
+    font-size: 11px;
+}
